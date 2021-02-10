@@ -2,7 +2,7 @@
 *Made easy! Cloud Vision API enables developers to understand the content of an image by encapsulating powerful machine learning models in an easy-to-use REST API. It quickly classifies images into thousands of categories (such as, “sailboat”), detects individual objects and faces within images, and reads printed words contained within images.*
 
 <p align="center">
-  <img src="https://lanouvelletribune.info/buzz/wp-content/uploads/2018/03/google_LOGO.jpg" width="400">
+  <img src="https://cdn.iphoneincanada.ca/wp-content/uploads/2019/06/vnanimaldetector.jpg" width="400">
 </p>
 
 ## Get started in 2 min!
