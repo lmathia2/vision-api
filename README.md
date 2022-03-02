@@ -1,6 +1,6 @@
-#Pre-requisites
+# Pre-requisites
 Install conda on your machine
-For MACOSX use homebrew, and then run ```brew install --cask anaconda```
+For MACOSX use homebrew (https://brew.sh/) , and then run ```brew install --cask anaconda```
 # Google Vision API
 *Made easy! Cloud Vision API enables developers to understand the content of an image by encapsulating powerful machine learning models in an easy-to-use REST API. It quickly classifies images into thousands of categories (such as, “sailboat”), detects individual objects and faces within images, and reads printed words contained within images.*
 
