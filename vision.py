@@ -46,10 +46,6 @@ def make_image_data_list(images, b64=True):
                     'maxResults': 5
                 },
                 {
-                    'type': 'OBJECT_DETECTION',
-                    'maxResults': 5
-                },
-                {
                     'type': 'LABEL_DETECTION',
                     'maxResults': 5
                 },
