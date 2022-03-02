@@ -23,9 +23,10 @@
 ### Run those commands to install the lib
 
 ```bash
-git clone git@github.com:philipperemy/vision-api.git && cd vision-api
-virtualenv -p python3 venv
-source venv/bin/activate
+git clone https://github.com/lmathia2/vision-api.git
+conda create --name google-vision
+conda activate google-vision
+cd vision-api
 pip install -r requirements.txt
 ```
 
@@ -39,7 +40,6 @@ Let's run one inference on a cat's picture:
 </p>
 
 ### Command
-
 ```
 export GOOGLE_API_KEY=<API_KEY>; python vision.py images/cat.jpg
 ```
